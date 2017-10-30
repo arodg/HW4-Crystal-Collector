@@ -1,0 +1,51 @@
+h1 {
+	margin: 10px;
+	width: 250px;
+	line-height: 2;
+	background-color: orange;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+#rules {
+	margin: 10px;
+	padding-top: 10px;
+}
+
+#rules p {
+	padding: 10px 0px;
+	width: 450px;
+	background-color: tan;
+	color: green;
+}
+
+#randomNumber {
+	float: left;
+	margin: 10px;
+	height: 100px;
+	width: 200px;
+	background-color: green;
+}
+
+#wins {
+	float: left;
+	margin: 10px;
+	height: 100px;
+	width: 70px;
+	background-color: blue;
+}
+
+#crystals {
+	clear: both;
+	margin: 10px;
+	height: 50px;
+	width: 400px;
+}
+
+#totalScore {
+	margin: 10px;
+	height: 100px;
+	width: 200px;
+	background-color: green;
+}
