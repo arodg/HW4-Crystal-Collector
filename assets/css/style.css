@@ -6,7 +6,7 @@ h1 {
 	margin: 10px;
 	width: 450px;
 	line-height: 2;
-	background-color: gold;
+	background-color: lightseagreen;
 	text-align: center;
 	color: white;
 	font-size: 30px;
@@ -19,10 +19,10 @@ h1 {
 #rules p {
 	width: 450px;
 	padding: 5px 0px;
-	background-color: lightseagreen;
+	background-color: pink;
 }
 
-#randomNumber {
+.random {
 	float: left;
 	margin: 10px 25px 10px 10px;
 	height: 100px;
@@ -31,28 +31,39 @@ h1 {
 	background-color: aquamarine;
 }
 
-#wins {
+#randomNumber {
+	font-size: 75px;
+}
+
+.scoreboard {
 	float: left;
 	margin: 10px;
 	height: 100px;
 	width: 200px;
-	background-color: royalblue;
+	background-color: gold;
 }
 
-#crystals {
+
+
+.crystals {
 	clear: both;
 	margin: 10px;
 }
 
-#crystals img {
+.crystals img {
 	margin-right: 10px;
 }
 
-#totalPoints {
+.total {
 	margin: 10px;
 	height: 100px;
 	width: 200px;
 	text-align: center;
 	background-color: aquamarine;
 }
+
+#totalPoints {
+	font-size: 75px;
+}
+
 
