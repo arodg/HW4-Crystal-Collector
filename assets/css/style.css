@@ -1,51 +1,58 @@
+body {
+	background-image: url("../images/congruent_pentagon.png");
+}
+
 h1 {
 	margin: 10px;
-	width: 250px;
+	width: 450px;
 	line-height: 2;
-	background-color: orange;
+	background-color: gold;
 	text-align: center;
 	color: white;
 	font-size: 30px;
 }
 
 #rules {
-	margin: 10px;
-	padding-top: 10px;
+	margin-left: 10px;
 }
 
 #rules p {
-	padding: 10px 0px;
 	width: 450px;
-	background-color: tan;
-	color: green;
+	padding: 5px 0px;
+	background-color: lightseagreen;
 }
 
 #randomNumber {
 	float: left;
-	margin: 10px;
+	margin: 10px 25px 10px 10px;
 	height: 100px;
 	width: 200px;
-	background-color: green;
+	text-align: center;
+	background-color: aquamarine;
 }
 
 #wins {
 	float: left;
 	margin: 10px;
 	height: 100px;
-	width: 70px;
-	background-color: blue;
+	width: 200px;
+	background-color: royalblue;
 }
 
 #crystals {
 	clear: both;
 	margin: 10px;
-	height: 50px;
-	width: 400px;
 }
 
-#totalScore {
+#crystals img {
+	margin-right: 10px;
+}
+
+#totalPoints {
 	margin: 10px;
 	height: 100px;
 	width: 200px;
-	background-color: green;
+	text-align: center;
+	background-color: aquamarine;
 }
+
