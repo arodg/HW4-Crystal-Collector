@@ -40,10 +40,9 @@ h1 {
 	margin: 10px;
 	height: 100px;
 	width: 200px;
+	text-align: center;
 	background-color: gold;
 }
-
-
 
 .crystals {
 	clear: both;
